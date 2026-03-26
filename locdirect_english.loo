@@ -115,7 +115,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$action.AttackCaravan";
-			Text ="Transporte de ataque";
+			Text ="Atacar Transporte";
 		},
 		LocDirectEntry
 		{
