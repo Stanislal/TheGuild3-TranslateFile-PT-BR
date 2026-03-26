@@ -4,6 +4,13 @@ Este pacote contém arquivos de tradução para português brasileiro (PT-BR) pa
 
 ---
 
+## 📥 Download
+
+Para baixar o arquivo de tradução:
+1. Acesse o arquivo no github chamado locdirect_english.loo
+2. Clique no botão "Download Raw File"
+
+
 ## 📂 Instalação
 
 1. Localize a pasta de instalação do jogo:
