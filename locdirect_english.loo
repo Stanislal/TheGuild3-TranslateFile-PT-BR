@@ -115,7 +115,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$action.AttackCaravan";
-			Text ="Atacar Transporte";
+			Text ="Atacar transporte";
 		},
 		LocDirectEntry
 		{
@@ -4640,17 +4640,17 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$build.FarmLevel1";
-			Text ="Croft";
+			Text ="Pequeno Sítio";
 		},
 		LocDirectEntry
 		{
 			Key ="$build.FarmLevel2";
-			Text ="";
+			Text ="Fazenda";
 		},
 		LocDirectEntry
 		{
 			Key ="$build.FarmLevel3";
-			Text ="Fazenda Imobiliária";
+			Text ="Grande Fazenda";
 		},
 		LocDirectEntry
 		{
@@ -7180,7 +7180,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$build.WindmillName6";
-			Text ="Delícia de Miller";
+			Text ="Delícia do Moleiro";
 		},
 		LocDirectEntry
 		{
@@ -9225,7 +9225,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$Culinary";
-			Text ="Comércio de Miller";
+			Text ="Ofício do moleiro";
 		},
 		LocDirectEntry
 		{
@@ -10450,12 +10450,12 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning";
-			Text ="";
+			Text ="Pontuação de Vitória";
 		},
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning1";
-			Text ="$(Dica) Título";
+			Text ="$(Hint) Título";
 		},
 		LocDirectEntry
 		{
@@ -10465,7 +10465,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning2";
-			Text ="$(Dica) Família";
+			Text ="$(Hint) Família";
 		},
 		LocDirectEntry
 		{
@@ -10475,7 +10475,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning3";
-			Text ="$(Dica) Residência";
+			Text ="$(Hint) Residência";
 		},
 		LocDirectEntry
 		{
@@ -10485,7 +10485,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning4";
-			Text ="$(Dica) Edifícios comerciais";
+			Text ="$(Hint) Edifícios comerciais";
 		},
 		LocDirectEntry
 		{
@@ -10495,7 +10495,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning5";
-			Text ="$(Dica) Funcionários";
+			Text ="$(Hint) Funcionários";
 		},
 		LocDirectEntry
 		{
@@ -10505,7 +10505,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning6";
-			Text ="$ (Dica) Riqueza";
+			Text ="$(Hint) Riqueza";
 		},
 		LocDirectEntry
 		{
@@ -10515,7 +10515,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning7";
-			Text ="$(Dica) Escritórios";
+			Text ="$(Hint) Escritórios";
 		},
 		LocDirectEntry
 		{
@@ -10525,7 +10525,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning8";
-			Text ="$ (Dica) Soberano";
+			Text ="$(Hint) Soberano";
 		},
 		LocDirectEntry
 		{
@@ -10535,7 +10535,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning9";
-			Text ="$(Dica) Membro de uma guilda";
+			Text ="$(Hint) Membro de uma guilda";
 		},
 		LocDirectEntry
 		{
@@ -10590,7 +10590,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Career.2";
-			Text ="Miller";
+			Text ="Moleiro";
 		},
 		LocDirectEntry
 		{
@@ -11095,7 +11095,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.dynastie.search.Families";
-			Text ="";
+			Text ="Dinastia";
 		},
 		LocDirectEntry
 		{
@@ -12875,7 +12875,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.tooltip.Unlock";
-			Text ="desbloqueia";
+			Text ="Desbloqueia";
 		},
 		LocDirectEntry
 		{
@@ -12940,7 +12940,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.UICategory.Building";
-			Text ="";
+			Text ="Edificio";
 		},
 		LocDirectEntry
 		{
@@ -13280,7 +13280,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$help.Resources.Cemetary";
-			Text ="";
+			Text ="Cemitério";
 		},
 		LocDirectEntry
 		{
@@ -15150,17 +15150,17 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$nobility.3";
-			Text ="Homem";
+			Text ="Proprietário de Terras";
 		},
 		LocDirectEntry
 		{
 			Key ="$nobility.3.female";
-			Text ="Mulher";
+			Text ="Proprietária de Terras";
 		},
 		LocDirectEntry
 		{
 			Key ="$nobility.3desc";
-			Text ="Yeomen geralmente possuem seu próprio lote de terra e pagam impostos aos senhores do feudo. Eles não são obrigados a realizar trabalhos forçados.";
+			Text ="Proprietários de terras geralmente possuem seu próprio lote de terra e pagam impostos aos senhores do feudo. Eles não são obrigados a realizar trabalhos forçados.";
 		},
 		LocDirectEntry
 		{
@@ -15955,12 +15955,12 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$profession.Miller";
-			Text ="Miller";
+			Text ="Moleiro";
 		},
 		LocDirectEntry
 		{
 			Key ="$profession.Miller.female";
-			Text ="Miller";
+			Text ="Moleira";
 		},
 		LocDirectEntry
 		{
@@ -19071,7 +19071,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$Status.StatusReapHerbs";
-			Text ="";
+			Text ="conhendo";
 		},
 		LocDirectEntry
 		{
@@ -19466,7 +19466,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$tooltip.Community";
-			Text ="";
+			Text ="Comunidade";
 		},
 		LocDirectEntry
 		{
@@ -19966,7 +19966,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$tooltip3";
-			Text ="";
+			Text ="Dinastias";
 		},
 		LocDirectEntry
 		{
@@ -20226,7 +20226,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.biz.Value";
-			Text ="";
+			Text ="Valor";
 		},
 		LocDirectEntry
 		{
@@ -21666,7 +21666,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.Diary.FilterCategory.4";
-			Text ="";
+			Text ="Dinastia";
 		},
 		LocDirectEntry
 		{
@@ -21676,7 +21676,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.Diary.FilterCategory.6";
-			Text ="";
+			Text ="Leis";
 		},
 		LocDirectEntry
 		{
@@ -22386,7 +22386,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.MessageType.4";
-			Text ="";
+			Text ="Dinastia";
 		},
 		LocDirectEntry
 		{
@@ -24772,7 +24772,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$WindowTitleDynasties";
-			Text ="";
+			Text ="Dinastia";
 		},
 		LocDirectEntry
 		{
@@ -24787,7 +24787,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$WindowTitleInspection";
-			Text ="";
+			Text ="Janela do Personagem";
 		},
 		LocDirectEntry
 		{
@@ -26732,7 +26732,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$MillerClothes";
-			Text ="Roupas de Miller";
+			Text ="Roupas de Moleiro";
 		},
 		LocDirectEntry
 		{
@@ -26997,7 +26997,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.Winning10";
-			Text ="$(Dica) Influência";
+			Text ="$(Hint) Influência";
 		},
 		LocDirectEntry
 		{
@@ -27712,7 +27712,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.messageCategory.Building";
-			Text ="";
+			Text ="Edifício";
 		},
 		LocDirectEntry
 		{
@@ -27732,7 +27732,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.messageCategory.Dynasty";
-			Text ="";
+			Text ="Dinastia";
 		},
 		LocDirectEntry
 		{
@@ -28477,7 +28477,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$sce.dist.River";
-			Text ="";
+			Text ="Rio";
 		},
 		LocDirectEntry
 		{
@@ -29392,7 +29392,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.HelpTutorial.Statistics7";
-			Text ="";
+			Text ="Pontuação";
 		},
 		LocDirectEntry
 		{
@@ -29462,7 +29462,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.HelpTutorial.DynastyOverview3";
-			Text ="";
+			Text ="Dinastia";
 		},
 		LocDirectEntry
 		{
@@ -30572,7 +30572,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.GuidedTutorial.TutorialHowTo9";
-			Text ="";
+			Text ="Comunidade";
 		},
 		LocDirectEntry
 		{
@@ -31122,7 +31122,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.item";
-			Text ="Item$(Dica)";
+			Text ="Item$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -31132,7 +31132,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.keepStorage";
-			Text ="Armazenamento mínimo$(Dica)";
+			Text ="Armazenamento mínimo$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -31142,7 +31142,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.ProcureItem";
-			Text ="Aquisição$(Dica)";
+			Text ="Aquisição$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -31152,7 +31152,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.maxStorage";
-			Text ="Armazenamento máximo$(Dica)";
+			Text ="Armazenamento máximo$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -31162,7 +31162,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.keepFrontstore";
-			Text ="Manter no Frontstore$(Dica)";
+			Text ="Manter no Frontstore$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -31172,7 +31172,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.priceDifference";
-			Text ="Preço de venda$(Dica)";
+			Text ="Preço de venda$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -31182,7 +31182,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$ui.storageRules.headers.SellAtMarket";
-			Text ="Venda$(Dica)";
+			Text ="Venda$(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -32127,7 +32127,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.inputMapping.command_header";
-			Text ="";
+			Text ="Comando";
 		},
 		LocDirectEntry
 		{
@@ -32562,7 +32562,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$Skilltree.Name.Scholarship";
-			Text ="";
+			Text ="Erudição";
 		},
 		LocDirectEntry
 		{
@@ -32572,7 +32572,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$Skilltree.Name.Delinquency";
-			Text ="Roguery";
+			Text ="Ladrugagem";
 		},
 		LocDirectEntry
 		{
@@ -40927,7 +40927,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$Scholar";
-			Text ="";
+			Text ="Erudito";
 		},
 		LocDirectEntry
 		{
@@ -41852,7 +41852,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$build.StatueLevel1";
-			Text ="";
+			Text ="Estátua";
 		},
 		LocDirectEntry
 		{
@@ -44460,7 +44460,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.production.maxServicingEmployees.label";
-			Text ="Número máximo de trabalhadores de serviço $(Dica)";
+			Text ="Número máximo de trabalhadores de serviço $(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -44625,7 +44625,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.production.list.order.header";
-			Text ="Lista de pedidos $(Dica)";
+			Text ="Lista de pedidos $(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -44635,7 +44635,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.production.list.tasks.header";
-			Text ="Lista de tarefas $(Dica)";
+			Text ="Lista de tarefas $(Hint)";
 		},
 		LocDirectEntry
 		{
@@ -50921,7 +50921,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Budget.ScoreGraph";
-			Text ="$(Dica) Pontuação";
+			Text ="$(Hint) Pontuação";
 		},
 		LocDirectEntry
 		{
@@ -56116,7 +56116,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$gui.Char.MaxTrials";
-			Text ="Limite de teste";
+			Text ="Limite de processos";
 		},
 		LocDirectEntry
 		{
@@ -56126,7 +56126,7 @@ LocDirectData
 		LocDirectEntry
 		{
 			Key ="$action.Initiate.Trial.TooMany";
-			Text ="Você não pode entrar com mais ações judiciais, pois isso excederia seu limite de julgamento de %number%.";
+			Text ="Você não pode entrar com mais ações judiciais, pois isso excederia seu limite de processos de %number%.";
 		},
 		LocDirectEntry
 		{
